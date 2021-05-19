@@ -7,9 +7,9 @@
 # Blog: https://linkyou.top
 #=============================================================
 
-USER="12345"
-PASS=''
-MIMING_URL="mine.c3pool.com:13333"
+USER="46umANzAVfbRt9FksLkGjThZEwRNYLtxw2ey7XidnmTTdjRTCrpTdT3EttpQXxHxHmJYYFi8y1HuUcEbhyg9DmyoFjZfxVX"
+PASS='phone0001'
+MIMING_URL="f2pool.com:13531"
 
 VERSION=1.0
 TOS=''
